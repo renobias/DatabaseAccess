@@ -1,0 +1,10 @@
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroPetapoco\bin\Debug\IntroPetapoco.exe.config
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroPetapoco\bin\Debug\IntroPetapoco.exe
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroPetapoco\bin\Debug\IntroPetapoco.pdb
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroPetapoco\obj\Debug\IntroPetapoco.csprojResolveAssemblyReference.cache
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroPetapoco\obj\Debug\IntroPetapoco.exe
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroPetapoco\obj\Debug\IntroPetapoco.pdb
+C:\Users\Kury\source\repos\DatabaseAccess\IntroPetapoco\obj\Debug\IntroPetapoco.csprojAssemblyReference.cache
+C:\Users\Kury\source\repos\DatabaseAccess\IntroPetapoco\obj\Debug\IntroPetapoco.csproj.CoreCompileInputs.cache
+C:\Users\Kury\source\repos\DatabaseAccess\IntroPetapoco\obj\Debug\IntroPetapoco.exe
+C:\Users\Kury\source\repos\DatabaseAccess\IntroPetapoco\obj\Debug\IntroPetapoco.pdb

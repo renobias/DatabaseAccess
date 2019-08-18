@@ -1,0 +1,14 @@
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.exe.config
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.exe
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.exe
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.csprojAssemblyReference.cache
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kury\source\repos\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.exe.config
+C:\Users\Kury\source\repos\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.exe
+C:\Users\Kury\source\repos\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\Kury\source\repos\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.csprojAssemblyReference.cache
+C:\Users\Kury\source\repos\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kury\source\repos\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.exe
+C:\Users\Kury\source\repos\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.pdb

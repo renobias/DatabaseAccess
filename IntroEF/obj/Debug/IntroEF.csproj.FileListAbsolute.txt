@@ -1,0 +1,24 @@
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroEF\bin\Debug\IntroEF.exe.config
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroEF\bin\Debug\IntroEF.exe
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroEF\bin\Debug\IntroEF.pdb
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroEF\bin\Debug\EntityFramework.dll
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroEF\bin\Debug\EntityFramework.xml
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroEF\obj\Debug\IntroEF.csprojResolveAssemblyReference.cache
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroEF\obj\Debug\IntroEF.exe
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroEF\obj\Debug\IntroEF.pdb
+C:\Users\CODE.ID\Documents\Visual Studio 2017\Projects\DatabaseAccess\IntroEF\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\bin\Debug\IntroEF.exe.config
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\bin\Debug\IntroEF.exe
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\bin\Debug\IntroEF.pdb
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\bin\Debug\EntityFramework.dll
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\bin\Debug\EntityFramework.xml
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\obj\Debug\IntroEF.csprojAssemblyReference.cache
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\obj\Debug\IntroEF.csproj.CoreCompileInputs.cache
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\obj\Debug\IntroEF.csproj.CopyComplete
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\obj\Debug\IntroEF.exe
+C:\Users\Kury\source\repos\DatabaseAccess\IntroEF\obj\Debug\IntroEF.pdb
